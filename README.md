@@ -4,7 +4,7 @@
 This is an flutter project which can be used in multiple platforms applications like Android app, Mac app and web-based applications.
 The project BMI Calculator which is Body Mass Index Calculator inspired by the beautiful designs made by Ruben Vaalt. It is a multi screen app with simple functionality but full-on custom styling.
 
-## UI
+## User Interface
 
 [BMICalculator(1).webm](https://user-images.githubusercontent.com/69446108/217575363-bc99d691-153f-4f3a-b571-681a1c124aa8.webm)
 
