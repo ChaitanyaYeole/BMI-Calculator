@@ -65,7 +65,7 @@ dependencies:
 
 ## Feedback
 
-If you haveing any feedback or having any problem in using or running program do comment down your thoughts and querys.
+If you having any feedback or having any problem in using or running program do comment down your thoughts and querys.
 
 
 ## License
