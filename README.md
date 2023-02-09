@@ -1,3 +1,4 @@
+![bmi calculator banner](https://user-images.githubusercontent.com/69446108/217690683-0c860dd5-39f9-40e7-804b-d5157c15555d.png)
 
 # BMI Calculator
 This is a flutter project which can be used in multiple platforms applications like Android app, Mac app and web-based applications.
